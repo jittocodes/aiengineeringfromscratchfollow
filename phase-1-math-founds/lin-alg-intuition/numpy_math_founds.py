@@ -19,3 +19,22 @@ print(f"Wx = {W @ x}")
 
 A = np.array([[1,2], [2,4]])
 print(f"Rank: {np.linalg.matrix_rank(A)}")
+
+a = np.array([3, 4])
+b = np.array([1, 0])
+proj = (np.dot(a, b) / np.dot(b, b)) * b
+print(f"Projection of {a} onto {b}: {proj}")
+
+import torch 
+
+x = torch.randn(3, requires_grad=True)
+y = torch.tensor([1.0, 0.0, 0.0])
+
+sim = torch.dot(x, y)
+sim.backward()
+
+
+print(f"x = {x.data}")
+print(f"y = {y.data}")
+print(f"dot product = {sim.item():.4f}")
+print(f"d(dot)/dx = {x.grad}")

@@ -61,10 +61,10 @@ def retrieval_chain_without_lcel(query: str):
     response = llm.invoke(messages)
     return response.content
 
-def retrieval_chain_with_lcel(query: str):
+def retrieval_chain_with_lcel():
     ret_chain = (
         RunnablePassthrough.assign(
-            context = itemgetter[str]("question") | 
+            context = itemgetter("question") | 
         retriever | format_docs )
         | prompt_template
         | llm
@@ -72,3 +72,6 @@ def retrieval_chain_with_lcel(query: str):
     )
     
     return ret_chain
+
+chainn = retrieval_chain_with_lcel()
+result_with_lcel = chainn.invoke({"question" : query})

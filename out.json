@@ -1,0 +1,148 @@
+"{'messages': [HumanMessage(content='Make this tweet better:\"\n                                    @LangChainAI\n            \u2014 newly Tool Calling feature is seriously underrated.\n\n            After a long wait, it's  here- making the implementation of agents across different models with function calling - super easy.\n\n            Made a video covering their newest blog post\n\n                                  ', additional_kwargs={}, response_metadata={}, id='37cd58ff-3447-4fbe-b637-a32d51a2fbdf'), AIMessage(content='\ud83d\ude80 The new Tool Calling feature from @LangChainAI is \ud83d\udd25 and totally underrated!  \nAfter much anticipation, it\u2019s finally here\u2014making it *ridiculously* easy to implement agents across various models using function calling.  \nJust dropped a video breaking down their latest blog post\u2014check it out!\ud83d\udc47 #AI #LangChain', additional_kwargs={'refusal': None}, response_metadata={'token_usage': {'completion_tokens': 68, 'prompt_tokens': 110, 'total_tokens': 178, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}}, 'model_provider': 'openai', 'model_name': 'gpt-4.1-2025-04-14', 'system_fingerprint': 'fp_3cd81ce51c', 'id': 'chatcmpl-DfUhPse9fVn7xqcg7PfztR77NK6AT', 'service_tier': 'default', 'finish_reason': 'stop', 'logprobs': None}, id='lc_run--019e27a8-94c9-7840-988a-f974d89ca4f1-0', tool_calls=[], invalid_tool_calls=[], usage_metadata={'input_tokens': 110, 'output_tokens': 68, 'total_tokens': 178, 'input_token_details': {'audio': 0, 'cache_read': 0}, 'output_token_details': {'audio': 0, 'reasoning': 0}}), HumanMessage(content='Sure! Here\u2019s a critique and set of recommendations to improve your tweet for virality and clarity:\n\n---\n\n**Original Tweet Critique:**\n- **Phrasing and Grammar:** The phrasing is a bit awkward (\"newly Tool Calling feature\") and uneven (\u201cit\u2019s here- making the implementation\u2026\u201d).\n- **Engagement:** Lacks an engaging hook or strong call-to-action.\n- **Formatting:** The structure is jagged, with inconsistent line breaks and spacing.\n- **Virality:** There\u2019s no use of emojis, hashtags, or concise excitement that typically drives shares.\n- **Length:** The message can be made more concise.\n- **Specificity:** Lacks a direct link or clear invitation to view the video.\n\n---\n\n**Recommendations:**\n\n1. **Create a Hook:** Start with a bold statement or reaction to draw attention (e.g., \"Game changer!\" or \"Massive AI update!\")\n2. **Be Clear and Concise:** Remove filler text and clarify which blog post or feature.\n3. **Use Emojis:** They increase engagement and make the tweet visually appealing.\n4. **Add Hashtags:** Use 1-2 targeted hashtags, like #AI or #LangChain.\n5. **Call-To-Action:** Prompt users to watch your video or share their thoughts.\n6. **Spacing:** Short, punchy sentences; avoid large blocks of text.\n7. **Tag Relevant Accounts:** Mention @LangChainAI once for clarity.\n\n---\n\n**Suggested Tweet Rewrite:**\n\n\ud83d\udd25 Huge update from @LangChainAI: the new Tool Calling feature is seriously underrated!  \nIt now lets you implement agents across models with function calling\u2014super easy.  \nI broke down their latest blog post in my new video\u2014check it out! \ud83d\udc47  \n#AI #LangChain\n\n---\n\n**Final Tips:**\n\n- Keep tweets under 240 characters for shareability.\n- If possible, include a video thumbnail or a GIF for increased CTR.\n- End with a strong call to action or a question (e.g., \u201cWhat do you think of this update?\u201d).\n\nLet me know if you want it styled even more for humor or for a technical audience!', additional_kwargs={}, response_metadata={}, id='bc3c0b5f-0b96-4fd8-b76d-08f41b73c07d'), AIMessage(content='Absolutely! Here\u2019s a tighter, more viral-ready version\u2014following your expert critique:\n\n\ud83d\udea8 Game-changer alert! \ud83d\udea8  \n@LangChainAI just dropped their Tool Calling feature, making agent deployment across models insanely simple with function calling.  \nI broke down their latest blog post in a quick video\u2014watch now and let me know your thoughts! \ud83d\udc47  \n#AI #LangChain\n\n(If you want the video link or thumbnail mention added, just let me know!)', additional_kwargs={'refusal': None}, response_metadata={'token_usage': {'completion_tokens': 97, 'prompt_tokens': 624, 'total_tokens': 721, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}}, 'model_provider': 'openai', 'model_name': 'gpt-4.1-2025-04-14', 'system_fingerprint': 'fp_1482a09d20', 'id': 'chatcmpl-DfUhdSr8hXQznbFEvlY474hW9fhhJ', 'service_tier': 'default', 'finish_reason': 'stop', 'logprobs': None}, id='lc_run--019e27a8-e4bb-7403-8bbc-8b7fc6fa74a0-0', tool_calls=[], invalid_tool_calls=[], usage_metadata={'input_tokens': 624, 'output_tokens': 97, 'total_tokens': 721, 'input_token_details': {'audio': 0, 'cache_read': 0}, 'output_token_details': {'audio': 0, 'reasoning': 0}}), HumanMessage(content='**Tweet Critique:**\n\n- **Phrasing:** \"newly Tool Calling feature\" is awkward\u2014should be \"new Tool Calling feature\".\n- **Clarity:** The tweet should clearly state what Tool Calling enables and why it matters.\n- **Formatting:** Inconsistent spacing and line breaks interrupt flow.\n- **Virality Potential:** Needs a punchier hook, emojis, and hashtags to increase reach.\n- **Call-to-Action:** \"Made a video\" could be more inviting\u2014like \"Watch my video!\" or \"Check out the breakdown\".\n- **Length & Conciseness:** Can be shortened for greater impact.\n\n---\n\n**Recommendations:**\n\n1. **Start with a Hook:** Capture attention right away, e.g. \"Game-changer launched!\" or \"Underrated AI feature alert!\".\n2. **Fix Grammar:** Use \"new\" not \"newly\"; make sentences direct and active.\n3. **Add Visuals:** Attach a video preview or thumbnail for higher engagement.\n4. **Use Emojis:** A spark (\u26a1\ufe0f), robot (\ud83e\udd16), or fire emoji (\ud83d\udd25) fits well.\n5. **Hashtags:** Use relevant hashtags like #AI, #LangChain, #FunctionCalling.\n6. **Direct CTA:** Invite people to watch and comment, e.g., \"Watch my video for a quick breakdown!\"\n7. **Trim and Sharpen:** Use active verbs and compact formatting.\n\n---\n\n**Optimized Viral Rewrite:**\n\n\ud83d\udd25 Underrated AI alert!  \nThe new Tool Calling feature from @LangChainAI makes building multi-model agents with function calling effortless.  \nJust made a quick video about their latest blog post\u2014watch & let me know what you think! \ud83d\udc47  \n#AI #LangChain\n\n---\n\n**Final Notes:**  \n- Keep it under 240 characters for max retweets.\n- Add a relevant image/gif to catch the eye.\n- Consider ending with a question: \"Have you tried it yet?\"  \nLet me know if you want it more technical, humorous, or to target a specific audience!', additional_kwargs={}, response_metadata={}, id='84f18a8b-7f9a-4892-8eca-50bf642bc00e'), AIMessage(content='Thank you for the detailed critique! Here\u2019s a more concise, punchy rewrite following your recommendations:\n\n\u26a1\ufe0f Underrated AI feature alert!  \n@LangChainAI\u2019s new Tool Calling makes building agents with function calling across models effortless.  \nI made a quick video explaining their latest blog post\u2014watch & share your thoughts! \ud83d\udc47  \n#AI #LangChain #FunctionCalling\n\n(Include a video thumbnail for maximum impact! Let me know if you want it tweaked for humor or a technical deep dive.)', additional_kwargs={'refusal': None}, response_metadata={'token_usage': {'completion_tokens': 105, 'prompt_tokens': 1150, 'total_tokens': 1255, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}}, 'model_provider': 'openai', 'model_name': 'gpt-4.1-2025-04-14', 'system_fingerprint': 'fp_1482a09d20', 'id': 'chatcmpl-DfUhqoMWSNmcULtxs0S0dxYqPb1JX', 'service_tier': 'default', 'finish_reason': 'stop', 'logprobs': None}, id='lc_run--019e27a9-1a54-7a23-8da8-773aec8fd40b-0', tool_calls=[], invalid_tool_calls=[], usage_metadata={'input_tokens': 1150, 'output_tokens': 105, 'total_tokens': 1255, 'input_token_details': {'audio': 0, 'cache_read': 0}, 'output_token_details': {'audio': 0, 'reasoning': 0}}), HumanMessage(content='Here\u2019s your tweet assessment and actionable recommendations for virality and impact:\n\n---\n\n### Critique:\n\n- **Phrasing:** The phrase \"newly Tool Calling\" is awkward; it should be \"new Tool Calling\".\n- **Clarity:** The benefit of Tool Calling isn\u2019t spelled out for someone unfamiliar.\n- **Flow & Formatting:** Line breaks seem arbitrary, affecting readability.\n- **Virality:** No emojis, hashtags, or strong visual/engagement elements.\n- **CTA:** \u201cMade a video\u201d is passive\u2014switch to an active invitation.\n- **Length:** Slightly rambling; clarity improves shareability.\n\n---\n\n### Recommendations & Viral Rewrite:\n\n1. **Catchy Hook:** Start with a wow, surprise, or value statement.\n2. **Be Direct:** Say what Tool Calling does and why it matters.\n3. **Active CTA:** Invite people to watch/react.\n4. **Emojis:** Use AI/tech emojis for spark.\n5. **Hashtags:** Targeted tags for discoverability.\n6. **Trim for Impact:** Short, punchy sentences.\n\n---\n\n**Viral Rewrite Example:**\n\n\ud83d\udd25 Hidden gem alert!  \n@LangChainAI just launched Tool Calling\u2014making agent building with function calling easier than ever.  \nI broke it down in a quick video\u2014check it out and drop your thoughts! \ud83d\udc47  \n#AI #LangChain #FunctionCalling\n\n---\n\n**Pro Tips:**\n- Attach the video or a killer thumbnail.\n- Under 240 characters gets better engagement.\n- Add a poll or question (\u201cHow would YOU use this?\u201d) for replies.\n- If targeting devs, use a more technical angle in the next revision.\n\nLet me know if you want a version with more humor, technical jargon, or a custom audience!', additional_kwargs={}, response_metadata={}, id='76bf957e-9411-4fc9-b963-b1bf94c8bcea'), AIMessage(content='Appreciate the thorough feedback! Here\u2019s a refined, high-impact version based on your notes:\n\n\ud83e\udd16 Game-changer alert!  \n@LangChainAI just dropped Tool Calling\u2014now you can connect agents to external tools with simple function calls.  \nI broke down how it works in a quick video\u2014watch & let me know how you\u2019d use it! \ud83d\udc47  \n#AI #LangChain #FunctionCalling', additional_kwargs={'refusal': None}, response_metadata={'token_usage': {'completion_tokens': 84, 'prompt_tokens': 1622, 'total_tokens': 1706, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}}, 'model_provider': 'openai', 'model_name': 'gpt-4.1-2025-04-14', 'system_fingerprint': 'fp_1482a09d20', 'id': 'chatcmpl-DfUi1llbmrafNRSUP3zqBM1ZhCur3', 'service_tier': 'default', 'finish_reason': 'stop', 'logprobs': None}, id='lc_run--019e27a9-4588-7173-a553-f61dcd90f9f3-0', tool_calls=[], invalid_tool_calls=[], usage_metadata={'input_tokens': 1622, 'output_tokens': 84, 'total_tokens': 1706, 'input_token_details': {'audio': 0, 'cache_read': 0}, 'output_token_details': {'audio': 0, 'reasoning': 0}})]}"{'messages': [HumanMessage(content='Make this tweet better:"
+                                    @LangChainAI
+            — newly Tool Calling feature is seriously underrated.
+
+            After a long wait, it's  here- making the implementation of agents across different models with function calling - super easy.
+
+            Made a video covering their newest blog post
+
+                                  ', additional_kwargs={}, response_metadata={}, id='37cd58ff-3447-4fbe-b637-a32d51a2fbdf'), AIMessage(content='🚀 The new Tool Calling feature from @LangChainAI is 🔥 and totally underrated!  
+After much anticipation, it’s finally here—making it *ridiculously* easy to implement agents across various models using function calling.  
+Just dropped a video breaking down their latest blog post—check it out!👇 #AI #LangChain', additional_kwargs={'refusal': None}, response_metadata={'token_usage': {'completion_tokens': 68, 'prompt_tokens': 110, 'total_tokens': 178, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}}, 'model_provider': 'openai', 'model_name': 'gpt-4.1-2025-04-14', 'system_fingerprint': 'fp_3cd81ce51c', 'id': 'chatcmpl-DfUhPse9fVn7xqcg7PfztR77NK6AT', 'service_tier': 'default', 'finish_reason': 'stop', 'logprobs': None}, id='lc_run--019e27a8-94c9-7840-988a-f974d89ca4f1-0', tool_calls=[], invalid_tool_calls=[], usage_metadata={'input_tokens': 110, 'output_tokens': 68, 'total_tokens': 178, 'input_token_details': {'audio': 0, 'cache_read': 0}, 'output_token_details': {'audio': 0, 'reasoning': 0}}), HumanMessage(content='Sure! Here’s a critique and set of recommendations to improve your tweet for virality and clarity:
+
+---
+
+**Original Tweet Critique:**
+- **Phrasing and Grammar:** The phrasing is a bit awkward ("newly Tool Calling feature") and uneven (“it’s here- making the implementation…”).
+- **Engagement:** Lacks an engaging hook or strong call-to-action.
+- **Formatting:** The structure is jagged, with inconsistent line breaks and spacing.
+- **Virality:** There’s no use of emojis, hashtags, or concise excitement that typically drives shares.
+- **Length:** The message can be made more concise.
+- **Specificity:** Lacks a direct link or clear invitation to view the video.
+
+---
+
+**Recommendations:**
+
+1. **Create a Hook:** Start with a bold statement or reaction to draw attention (e.g., "Game changer!" or "Massive AI update!")
+2. **Be Clear and Concise:** Remove filler text and clarify which blog post or feature.
+3. **Use Emojis:** They increase engagement and make the tweet visually appealing.
+4. **Add Hashtags:** Use 1-2 targeted hashtags, like #AI or #LangChain.
+5. **Call-To-Action:** Prompt users to watch your video or share their thoughts.
+6. **Spacing:** Short, punchy sentences; avoid large blocks of text.
+7. **Tag Relevant Accounts:** Mention @LangChainAI once for clarity.
+
+---
+
+**Suggested Tweet Rewrite:**
+
+🔥 Huge update from @LangChainAI: the new Tool Calling feature is seriously underrated!  
+It now lets you implement agents across models with function calling—super easy.  
+I broke down their latest blog post in my new video—check it out! 👇  
+#AI #LangChain
+
+---
+
+**Final Tips:**
+
+- Keep tweets under 240 characters for shareability.
+- If possible, include a video thumbnail or a GIF for increased CTR.
+- End with a strong call to action or a question (e.g., “What do you think of this update?”).
+
+Let me know if you want it styled even more for humor or for a technical audience!', additional_kwargs={}, response_metadata={}, id='bc3c0b5f-0b96-4fd8-b76d-08f41b73c07d'), AIMessage(content='Absolutely! Here’s a tighter, more viral-ready version—following your expert critique:
+
+🚨 Game-changer alert! 🚨  
+@LangChainAI just dropped their Tool Calling feature, making agent deployment across models insanely simple with function calling.  
+I broke down their latest blog post in a quick video—watch now and let me know your thoughts! 👇  
+#AI #LangChain
+
+(If you want the video link or thumbnail mention added, just let me know!)', additional_kwargs={'refusal': None}, response_metadata={'token_usage': {'completion_tokens': 97, 'prompt_tokens': 624, 'total_tokens': 721, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}}, 'model_provider': 'openai', 'model_name': 'gpt-4.1-2025-04-14', 'system_fingerprint': 'fp_1482a09d20', 'id': 'chatcmpl-DfUhdSr8hXQznbFEvlY474hW9fhhJ', 'service_tier': 'default', 'finish_reason': 'stop', 'logprobs': None}, id='lc_run--019e27a8-e4bb-7403-8bbc-8b7fc6fa74a0-0', tool_calls=[], invalid_tool_calls=[], usage_metadata={'input_tokens': 624, 'output_tokens': 97, 'total_tokens': 721, 'input_token_details': {'audio': 0, 'cache_read': 0}, 'output_token_details': {'audio': 0, 'reasoning': 0}}), HumanMessage(content='**Tweet Critique:**
+
+- **Phrasing:** "newly Tool Calling feature" is awkward—should be "new Tool Calling feature".
+- **Clarity:** The tweet should clearly state what Tool Calling enables and why it matters.
+- **Formatting:** Inconsistent spacing and line breaks interrupt flow.
+- **Virality Potential:** Needs a punchier hook, emojis, and hashtags to increase reach.
+- **Call-to-Action:** "Made a video" could be more inviting—like "Watch my video!" or "Check out the breakdown".
+- **Length & Conciseness:** Can be shortened for greater impact.
+
+---
+
+**Recommendations:**
+
+1. **Start with a Hook:** Capture attention right away, e.g. "Game-changer launched!" or "Underrated AI feature alert!".
+2. **Fix Grammar:** Use "new" not "newly"; make sentences direct and active.
+3. **Add Visuals:** Attach a video preview or thumbnail for higher engagement.
+4. **Use Emojis:** A spark (⚡️), robot (🤖), or fire emoji (🔥) fits well.
+5. **Hashtags:** Use relevant hashtags like #AI, #LangChain, #FunctionCalling.
+6. **Direct CTA:** Invite people to watch and comment, e.g., "Watch my video for a quick breakdown!"
+7. **Trim and Sharpen:** Use active verbs and compact formatting.
+
+---
+
+**Optimized Viral Rewrite:**
+
+🔥 Underrated AI alert!  
+The new Tool Calling feature from @LangChainAI makes building multi-model agents with function calling effortless.  
+Just made a quick video about their latest blog post—watch & let me know what you think! 👇  
+#AI #LangChain
+
+---
+
+**Final Notes:**  
+- Keep it under 240 characters for max retweets.
+- Add a relevant image/gif to catch the eye.
+- Consider ending with a question: "Have you tried it yet?"  
+Let me know if you want it more technical, humorous, or to target a specific audience!', additional_kwargs={}, response_metadata={}, id='84f18a8b-7f9a-4892-8eca-50bf642bc00e'), AIMessage(content='Thank you for the detailed critique! Here’s a more concise, punchy rewrite following your recommendations:
+
+⚡️ Underrated AI feature alert!  
+@LangChainAI’s new Tool Calling makes building agents with function calling across models effortless.  
+I made a quick video explaining their latest blog post—watch & share your thoughts! 👇  
+#AI #LangChain #FunctionCalling
+
+(Include a video thumbnail for maximum impact! Let me know if you want it tweaked for humor or a technical deep dive.)', additional_kwargs={'refusal': None}, response_metadata={'token_usage': {'completion_tokens': 105, 'prompt_tokens': 1150, 'total_tokens': 1255, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}}, 'model_provider': 'openai', 'model_name': 'gpt-4.1-2025-04-14', 'system_fingerprint': 'fp_1482a09d20', 'id': 'chatcmpl-DfUhqoMWSNmcULtxs0S0dxYqPb1JX', 'service_tier': 'default', 'finish_reason': 'stop', 'logprobs': None}, id='lc_run--019e27a9-1a54-7a23-8da8-773aec8fd40b-0', tool_calls=[], invalid_tool_calls=[], usage_metadata={'input_tokens': 1150, 'output_tokens': 105, 'total_tokens': 1255, 'input_token_details': {'audio': 0, 'cache_read': 0}, 'output_token_details': {'audio': 0, 'reasoning': 0}}), HumanMessage(content='Here’s your tweet assessment and actionable recommendations for virality and impact:
+
+---
+
+### Critique:
+
+- **Phrasing:** The phrase "newly Tool Calling" is awkward; it should be "new Tool Calling".
+- **Clarity:** The benefit of Tool Calling isn’t spelled out for someone unfamiliar.
+- **Flow & Formatting:** Line breaks seem arbitrary, affecting readability.
+- **Virality:** No emojis, hashtags, or strong visual/engagement elements.
+- **CTA:** “Made a video” is passive—switch to an active invitation.
+- **Length:** Slightly rambling; clarity improves shareability.
+
+---
+
+### Recommendations & Viral Rewrite:
+
+1. **Catchy Hook:** Start with a wow, surprise, or value statement.
+2. **Be Direct:** Say what Tool Calling does and why it matters.
+3. **Active CTA:** Invite people to watch/react.
+4. **Emojis:** Use AI/tech emojis for spark.
+5. **Hashtags:** Targeted tags for discoverability.
+6. **Trim for Impact:** Short, punchy sentences.
+
+---
+
+**Viral Rewrite Example:**
+
+🔥 Hidden gem alert!  
+@LangChainAI just launched Tool Calling—making agent building with function calling easier than ever.  
+I broke it down in a quick video—check it out and drop your thoughts! 👇  
+#AI #LangChain #FunctionCalling
+
+---
+
+**Pro Tips:**
+- Attach the video or a killer thumbnail.
+- Under 240 characters gets better engagement.
+- Add a poll or question (“How would YOU use this?”) for replies.
+- If targeting devs, use a more technical angle in the next revision.
+
+Let me know if you want a version with more humor, technical jargon, or a custom audience!', additional_kwargs={}, response_metadata={}, id='76bf957e-9411-4fc9-b963-b1bf94c8bcea'), AIMessage(content='Appreciate the thorough feedback! Here’s a refined, high-impact version based on your notes:
+
+🤖 Game-changer alert!  
+@LangChainAI just dropped Tool Calling—now you can connect agents to external tools with simple function calls.  
+I broke down how it works in a quick video—watch & let me know how you’d use it! 👇  
+#AI #LangChain #FunctionCalling', additional_kwargs={'refusal': None}, response_metadata={'token_usage': {'completion_tokens': 84, 'prompt_tokens': 1622, 'total_tokens': 1706, 'completion_tokens_details': {'accepted_prediction_tokens': 0, 'audio_tokens': 0, 'reasoning_tokens': 0, 'rejected_prediction_tokens': 0}, 'prompt_tokens_details': {'audio_tokens': 0, 'cached_tokens': 0}}, 'model_provider': 'openai', 'model_name': 'gpt-4.1-2025-04-14', 'system_fingerprint': 'fp_1482a09d20', 'id': 'chatcmpl-DfUi1llbmrafNRSUP3zqBM1ZhCur3', 'service_tier': 'default', 'finish_reason': 'stop', 'logprobs': None}, id='lc_run--019e27a9-4588-7173-a553-f61dcd90f9f3-0', tool_calls=[], invalid_tool_calls=[], usage_metadata={'input_tokens': 1622, 'output_tokens': 84, 'total_tokens': 1706, 'input_token_details': {'audio': 0, 'cache_read': 0}, 'output_token_details': {'audio': 0, 'reasoning': 0}})]}
